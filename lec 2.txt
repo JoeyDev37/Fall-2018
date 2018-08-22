@@ -1,0 +1,8 @@
+-- Ruby Lecture --
+
+* Everything is an object
+* Loosely typed
+* Variable names use underscores
+* respond_to? e.g. current_score.respond_to?(:substr) => false
+* double quotes allows string interpolation
+
